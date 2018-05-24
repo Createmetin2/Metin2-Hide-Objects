@@ -89,3 +89,16 @@
 					"over_image" : ROOT_PATH + "small_Button_02.sub",
 					"down_image" : ROOT_PATH + "small_Button_03.sub",
 				},
+				{
+					"name" : "vsble5",
+					"type" : "toggle_button",
+
+					"x" : LINE_DATA_X+SMALL_BUTTON_WIDTH*5,
+					"y" : 290,
+
+					"text" : "SHOP",
+
+					"default_image" : ROOT_PATH + "small_Button_01.sub",
+					"over_image" : ROOT_PATH + "small_Button_02.sub",
+					"down_image" : ROOT_PATH + "small_Button_03.sub",
+				},
