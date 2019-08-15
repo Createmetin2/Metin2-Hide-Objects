@@ -1,3 +1,6 @@
+///Add
+#include "pythoncharactermanager.h"
+
 //Find
 	PyModule_AddIntConstant(poModule, "PART_TERRAIN",			CMapOutdoor::PART_TERRAIN);
 	
